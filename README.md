@@ -125,6 +125,7 @@ Our algorithm outperformed:
 
 ---
 
+Multiple codes + Community Detection Datasets are available 
 
 ## 📂 Project Structure
 
